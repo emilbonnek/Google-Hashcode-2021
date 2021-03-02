@@ -8,7 +8,7 @@ We scored a total of 9,510,173 points, earning us 838 place out of 9,004 partici
 
 ![scoreboard_world.jpg](scoreboard_world.jpg)
 
-And here is how are points was distributed over the various input datasets.
+And here is how our points were distributed over the various input datasets.
 
 ![scores.jpg](scores.jpg)
 
